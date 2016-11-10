@@ -1,0 +1,21 @@
+{
+  "name": "limitless-bootstrap",
+  "authors": [
+    "Quang Tien <tientq@dkt.com.vn>"
+  ],
+  "description": "Custom bootstrap for Limitless - Responsive Web Application Kit",
+  "main": "dist/css/bootstrap.min.css",
+  "keywords": [
+    "limitless",
+    "bootstrap"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/tientq/limitless-bootstrap",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
